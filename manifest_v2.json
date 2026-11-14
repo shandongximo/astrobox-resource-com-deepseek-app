@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "com.Deepseek.app",
+    "restype": "quick_app",
+    "name": "Deepseek离线版",
+    "description": "手表上的离线问答小工具，内置约八千条常识和学习内容，不联网、不登录也能问。拼音输入、答案可展开，适配手环 10Pro方屏。和 DeepSeek 官方无关，个人作品，纯本地运行。",
+    "preview": [
+      "media/1000011483.png",
+      "media/1000011482.png",
+      "media/1000011481.png"
+    ],
+    "icon": "media/1000011487.png",
+    "cover": "media/1000011485.png",
+    "author": [
+      {
+        "name": "shandongximo",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.2.6",
+      "file_name": "downloads/DeepSeek-Vela.rpk",
+      "versionCode": 126
+    }
+  },
+  "ext": {}
+}
